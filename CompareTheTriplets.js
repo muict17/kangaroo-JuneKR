@@ -17,4 +17,5 @@ function compareTriplets(a, b) {
     return Alice + ' ' + Bob;
 }
 
+//test
 // compareTriplets([5,6,7], [3,6,10]);
